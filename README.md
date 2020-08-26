@@ -1,3 +1,4 @@
+# Ubuntu 환경기준
 # tor, privoxy 설치
 
     apt install tor
