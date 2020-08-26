@@ -26,3 +26,6 @@ forward-socks4a / 127.0.0.1:9050 .
 
 # 스크래피 실행
     scrapy crawl quotes
+
+# 참고자료
+* https://gist.github.com/DusanMadar/8d11026b7ce0bce6a67f7dd87b999f6b
