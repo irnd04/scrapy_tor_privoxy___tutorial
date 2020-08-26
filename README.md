@@ -29,3 +29,4 @@ forward-socks4a / 127.0.0.1:9050 .
 
 # 참고자료
 * https://gist.github.com/DusanMadar/8d11026b7ce0bce6a67f7dd87b999f6b
+* https://stackoverflow.com/questions/56889999/how-to-rotate-proxies-and-user-agents
